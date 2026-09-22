@@ -1,0 +1,247 @@
+[
+  {
+    "slug": "luna-lodge",
+    "nombre": "Luna Lodge",
+    "logo": "luna-lodge-t.webp",
+    "categoria": "hospedaje",
+    "ubicacion": "Carate",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Ecolodge en las montañas de Carate, a las puertas del Parque Nacional Corcovado, con bungalows, habitaciones y tiendas, plataforma de yoga con vista al Pacífico, spa y retiros de bienestar. Funciona con energía hidroeléctrica y solar.",
+    "descripcion_en": "Eco-lodge in the hills above Carate, on the doorstep of Corcovado National Park, with bungalows, rooms and tents, a yoga platform overlooking the Pacific, a spa and wellness retreats. Powered by hydroelectric and solar energy.",
+    "enlaces": {
+      "web": "https://lunalodge.com/",
+      "facebook": "https://www.facebook.com/lunalodge.costarica",
+      "instagram": "https://www.instagram.com/lunalodgecostarica/",
+      "tripadvisor": "https://www.tripadvisor.es/Hotel_Review-g309280-d301435-Reviews-Luna_Lodge-Carate_Corcovado_National_Park_Osa_Peninsula_Province_of_Puntarenas.html"
+    }
+  },
+  {
+    "slug": "lapa-rios",
+    "nombre": "Lapa Ríos Lodge",
+    "logo": "lapa-rios-t.webp",
+    "categoria": "hospedaje",
+    "ubicacion": "Cabo Matapalo",
+    "telefono": "+506 4070 0420",
+    "email": "",
+    "descripcion_es": "Ecolodge en Cabo Matapalo con bungalows, suites y villas dentro de una reserva privada de unas 400 hectáreas de bosque lluvioso. Programa de caminatas, avistamiento de ballenas y delfines, kayak y visitas a Corcovado. Estadías con reserva previa.",
+    "descripcion_en": "Eco-lodge at Cabo Matapalo with bungalows, suites and villas set within a private rainforest reserve of about 1,000 acres. Guided hikes, whale and dolphin watching, kayaking and trips to Corcovado. Stays by advance reservation.",
+    "enlaces": {
+      "web": "https://www.laparios.com/",
+      "facebook": "https://www.facebook.com/LapaRiosEcolodge",
+      "instagram": "https://www.instagram.com/laparioscr",
+      "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g2705972-d293118-Reviews-Lapa_Rios_Lodge-Cabo_Matapalo_Osa_Peninsula_Province_of_Puntarenas.html"
+    }
+  },
+  {
+    "slug": "el-remanso",
+    "nombre": "El Remanso Lodge",
+    "logo": "el-remanso-t.webp",
+    "categoria": "hospedaje",
+    "ubicacion": "Cabo Matapalo",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Lodge de bosque lluvioso en Cabo Matapalo, con cabinas y casas rodeadas de selva primaria, catarata propia y actividades de aventura como rápel, canopy y caminatas guiadas para sus huéspedes.",
+    "descripcion_en": "Rainforest lodge at Cabo Matapalo, with cabins and houses surrounded by primary forest, its own waterfall and adventure activities such as rappelling, canopy tours and guided hikes for guests.",
+    "enlaces": {
+      "web": "https://elremanso.com/",
+      "instagram": "https://www.instagram.com/elremansolodge/"
+    }
+  },
+  {
+    "slug": "hacienda-rio-oro",
+    "nombre": "Hacienda Río Oro",
+    "logo": "hro-t.webp",
+    "categoria": "hospedaje",
+    "ubicacion": "Agua Buena (camino a Carate)",
+    "telefono": "+506 8361 6295",
+    "email": "",
+    "descripcion_es": "Hospedaje rural familiar en una hacienda fundada en 1982, sobre la ruta a Carate, con habitaciones rústicas y tours de naturaleza y cabalgatas por montaña, lagunas, manglar y playa de acceso privado.",
+    "descripcion_en": "Family-run rural lodge on a ranch established in 1982, along the road to Carate, with rustic rooms and nature tours and horseback rides across hills, lagoons, mangroves and a private-access beach.",
+    "enlaces": {
+      "web": "https://haciendariooro.com/",
+      "facebook": "https://www.facebook.com/HaciendaRioOro/",
+      "instagram": "https://www.instagram.com/haciendariooro/"
+    }
+  },
+  {
+    "slug": "osa-wild",
+    "nombre": "Osa Wild",
+    "logo": "osa-wild-t.webp",
+    "categoria": "tours",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Operadora local que conecta a los viajeros con experiencias de turismo comunitario y de naturaleza en la Península de Osa: caminatas en Corcovado, tours culturales y visitas a fincas y proyectos de conservación.",
+    "descripcion_en": "Local operator connecting travelers with community-based and nature experiences across the Osa Peninsula: Corcovado hikes, cultural tours and visits to farms and conservation projects.",
+    "enlaces": {
+      "web": "https://osawild.com/",
+      "facebook": "https://www.facebook.com/osawildtravel/"
+    }
+  },
+  {
+    "slug": "osa-experience",
+    "nombre": "Osa Experience",
+    "logo": "osa-experience-t.webp",
+    "categoria": "tours",
+    "ubicacion": "Carate y Puerto Jiménez",
+    "telefono": "+506 8965 7500",
+    "email": "",
+    "descripcion_es": "Operadora local fundada en 2016 que organiza caminatas guiadas al Parque Nacional Corcovado (La Leona y Sirena), experiencias de naturaleza y bienestar, y viajes a la medida desde Carate y Puerto Jiménez.",
+    "descripcion_en": "Local operator founded in 2016 offering guided hikes into Corcovado National Park (La Leona and Sirena), nature and wellness experiences, and tailor-made trips from Carate and Puerto Jiménez.",
+    "enlaces": {
+      "web": "https://osaexperience.com/",
+      "facebook": "https://www.facebook.com/osaexperience",
+      "instagram": "https://www.instagram.com/osaexperience/"
+    }
+  },
+  {
+    "slug": "aventuras-golfo-dulce",
+    "nombre": "Aventuras Tropicales Golfo Dulce",
+    "logo": "golfo-dulce-adventures.png",
+    "categoria": "tours",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "+506 2735 5195",
+    "email": "kayak@aventurasgolfodulce.com",
+    "descripcion_es": "Tours en kayak por los manglares y el Golfo Dulce, salidas de bioluminiscencia al atardecer, avistamiento de delfines y ballenas, y alquiler de kayaks en Puerto Jiménez. No se necesita experiencia previa.",
+    "descripcion_en": "Kayak tours through the mangroves and the Golfo Dulce, sunset bioluminescence paddles, dolphin and whale watching trips, and kayak rentals in Puerto Jiménez. No previous experience needed.",
+    "enlaces": {
+      "web": "https://aventurastropicales.com/es",
+      "tripadvisor": "https://www.tripadvisor.es/Attraction_Review-g309284-d1368314-Reviews-Aventuras_Tropicales_Golfo_Dulce-Puerto_Jimenez_Osa_Peninsula_Province_of_Puntare.html"
+    }
+  },
+  {
+    "slug": "corcovado-tours",
+    "nombre": "Corcovado Tours",
+    "logo": "corcovado-tours-logo.png",
+    "categoria": "tours",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Excursiones guiadas al Parque Nacional Corcovado y al Golfo Dulce, con guías certificados, avistamiento de fauna, tours en bote y paquetes de día completo por la Península de Osa.",
+    "descripcion_en": "Guided excursions to Corcovado National Park and the Golfo Dulce, with certified guides, wildlife watching, boat tours and full-day packages across the Osa Peninsula.",
+    "enlaces": {
+      "facebook": "https://www.facebook.com/corcovadotours/"
+    }
+  },
+  {
+    "slug": "surcos-tours",
+    "nombre": "Surcos Tours",
+    "logo": "surcos-tours.png",
+    "categoria": "tours",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Turismo de naturaleza y observación de aves en la Península de Osa, con recorridos guiados por bosque, manglar y humedales, y experiencias fotográficas de fauna y flora tropical.",
+    "descripcion_en": "Nature tourism and birdwatching across the Osa Peninsula, with guided routes through forest, mangroves and wetlands, and photography experiences of tropical wildlife and flora.",
+    "enlaces": {
+      "facebook": "https://www.facebook.com/surcostours/"
+    }
+  },
+  {
+    "slug": "tropical-housing",
+    "nombre": "Tropical Housing",
+    "logo": "tropical-housing-t.webp",
+    "categoria": "hospedaje",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Alquiler de casas y propiedades vacacionales en la zona de Puerto Jiménez y la Península de Osa, con opciones para estadías cortas y largas cerca de playas y naturaleza.",
+    "descripcion_en": "Vacation home and property rentals in the Puerto Jiménez area and the Osa Peninsula, with options for short and long stays close to beaches and nature.",
+    "enlaces": {
+      "web": "https://tropicalhousing.com/"
+    }
+  },
+  {
+    "slug": "sansa",
+    "nombre": "SANSA Airlines",
+    "logo": "sansa-t.webp",
+    "categoria": "transporte",
+    "ubicacion": "Aeródromo de Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Aerolínea doméstica de Costa Rica con vuelos regulares entre San José y el aeródromo de Puerto Jiménez, la forma más rápida de llegar a la Península de Osa.",
+    "descripcion_en": "Costa Rica's domestic airline with scheduled flights between San José and the Puerto Jiménez airstrip, the fastest way to reach the Osa Peninsula.",
+    "enlaces": {
+      "web": "https://www.flysansa.com/"
+    }
+  },
+  {
+    "slug": "bm-supermercados",
+    "nombre": "BM Supermercados",
+    "logo": "BM.png",
+    "categoria": "comercio",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Cadena de supermercados costarricense con sucursal en Puerto Jiménez, punto de abastecimiento de alimentos, productos frescos y artículos de primera necesidad para visitantes y residentes.",
+    "descripcion_en": "Costa Rican supermarket chain with a branch in Puerto Jiménez, a supply point for groceries, fresh produce and everyday essentials for visitors and residents.",
+    "enlaces": {
+      "web": "https://www.bmsupermercados.com/"
+    }
+  },
+  {
+    "slug": "cable-brunca",
+    "nombre": "Cable Brunca",
+    "logo": "Cable_Brunca.png",
+    "categoria": "comercio",
+    "ubicacion": "Zona Sur",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Proveedor local de servicios de televisión por cable e internet en la Zona Sur, con cobertura en Puerto Jiménez y comunidades de la Península de Osa.",
+    "descripcion_en": "Local cable television and internet service provider in the Southern Zone, with coverage in Puerto Jiménez and communities across the Osa Peninsula.",
+    "enlaces": {}
+  },
+  {
+    "slug": "delfines-del-golfo",
+    "nombre": "Hotel Delfines del Golfo",
+    "logo": "Hotel_Delfines_del_Golfo.png",
+    "categoria": "hospedaje",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Hotel de ambiente familiar en Puerto Jiménez con cabinas y habitaciones con aire acondicionado, piscina, jardines, rancho con parrillas y parqueo privado. Coordina tours por el Golfo Dulce y Osa.",
+    "descripcion_en": "Family-friendly hotel in Puerto Jiménez with air-conditioned cabins and rooms, a swimming pool, gardens, a covered dining and barbecue area, and private parking. Helps arrange Golfo Dulce and Osa tours.",
+    "enlaces": {
+      "facebook": "https://www.facebook.com/delfinesdelgolfocostarica/"
+    }
+  },
+  {
+    "slug": "asociacion-yaguara",
+    "nombre": "Asociación Yaguará",
+    "logo": "asociacion-yaguara.png",
+    "categoria": "comunitario",
+    "ubicacion": "Península de Osa",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Organización dedicada a la conservación del jaguar y los grandes felinos de la Península de Osa, con proyectos de monitoreo de fauna, educación ambiental y turismo responsable.",
+    "descripcion_en": "Organization dedicated to the conservation of jaguars and big cats on the Osa Peninsula, with wildlife monitoring projects, environmental education and responsible tourism.",
+    "enlaces": {
+      "facebook": "https://www.facebook.com/asociacionyaguara/"
+    }
+  },
+  {
+    "slug": "selva-nila",
+    "nombre": "Selva Nila",
+    "logo": "Logo-selvanilla.png",
+    "categoria": "hospedaje",
+    "ubicacion": "Península de Osa",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Refugio de naturaleza en la Península de Osa que combina hospedaje sostenible en medio de la selva con experiencias de conexión con el bosque tropical y su biodiversidad.",
+    "descripcion_en": "Nature retreat on the Osa Peninsula blending sustainable lodging deep in the jungle with experiences that connect guests to the tropical forest and its biodiversity.",
+    "enlaces": {}
+  },
+  {
+    "slug": "frank-chaves",
+    "nombre": "Frank Chaves",
+    "logo": "Logo_Frank_Chaves.png",
+    "categoria": "transporte",
+    "ubicacion": "Puerto Jiménez",
+    "telefono": "",
+    "email": "",
+    "descripcion_es": "Servicio local de transporte y traslados en la Península de Osa, con conexiones entre Puerto Jiménez, playas, lodges y puntos de interés turístico de la zona.",
+    "descripcion_en": "Local transport and shuttle service on the Osa Peninsula, connecting Puerto Jiménez with beaches, lodges and points of tourist interest in the area.",
+    "enlaces": {}
+  }
+]
