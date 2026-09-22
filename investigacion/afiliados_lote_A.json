@@ -1,0 +1,246 @@
+[
+  {
+    "nombre": "Bosque del Cabo Rainforest Lodge",
+    "nombre_excel": "Bosque del Cabo Rainforest Lodge",
+    "categoria": "hospedaje",
+    "ubicacion": "Cabo Matapalo",
+    "descripcion_es": "Lodge de selva en Cabo Matapalo, en la punta de la Península de Osa, con bungalows y casas con vista al mar dentro de una reserva privada de más de 300 hectáreas. Estadías con reserva previa.",
+    "descripcion_en": "Rainforest lodge at Cabo Matapalo, on the tip of the Osa Peninsula, with ocean-view bungalows and houses inside a private reserve of over 750 acres. Stays by advance reservation.",
+    "descripcion_larga_es": "Bosque del Cabo es un lodge atendido por sus propietarios desde 1990, ubicado sobre un acantilado donde el Golfo Dulce se encuentra con el océano Pacífico. Ofrece bungalows con techo de palma, casas de alquiler y cabinas de jardín, rodeados por una reserva forestal privada de más de 300 hectáreas cuyos senderos son de uso exclusivo de sus huéspedes. Cuenta con Certificación para la Sostenibilidad Turística (CST), un restaurante que funciona con energía solar y actividades como caminatas guiadas, kayak, surf y observación de fauna.",
+    "descripcion_larga_en": "Owner-operated since 1990, Bosque del Cabo sits on a clifftop where the Golfo Dulce meets the Pacific Ocean. Guests stay in thatched-roof bungalows, rental houses or garden cabinas, surrounded by a private forest reserve of more than 750 acres whose trails are reserved exclusively for lodge guests. The lodge holds Costa Rica's Certification for Sustainable Tourism (CST), runs a solar-powered restaurant, and arranges guided hikes, kayaking, surfing and wildlife watching.",
+    "telefono": "+506 2735 5206",
+    "whatsapp": "+506 8833 3777",
+    "email": "reservations@bosquedelcabo.com",
+    "enlaces": {
+      "web": "https://www.bosquedelcabo.com/",
+      "facebook": "https://www.facebook.com/bosquedelcabo/",
+      "instagram": "https://www.instagram.com/bosquedelcabo/",
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": null
+    },
+    "fuentes": [
+      "https://www.bosquedelcabo.com/index.html",
+      "https://bosquedelcabo.com/reservations/contact/contact.html"
+    ],
+    "confianza": "alta",
+    "notas": "Datos tomados del sitio oficial. El teléfono indicado es el de la oficina de reservas en Puerto Jiménez (también figura +506 2735 5443; recepción del lodge: +506 8389 2846 y +506 4070 2025). La reserva y los senderos son de uso exclusivo de huéspedes: la descripción no invita a visitas de día. Se encontró un perfil de Tripadvisor (https://www.tripadvisor.com/Hotel_Review-g2705972-d308604-Reviews-Bosque_del_Cabo_Rain_Forest_Lodge-Cabo_Matapalo_Osa_Peninsula_Province_of_Puntarenas.html) que no estaba en la lista de la cámara; no se agregó a 'enlaces' por no haber sido verificado directamente. Facebook e Instagram no se consultaron (bloquean acceso automatizado)."
+  },
+  {
+    "nombre": "ACODOBRARTI – Corcovado El Tigre",
+    "nombre_excel": "ACODOBRARTI (Corcovado El Tigre)",
+    "categoria": "organizacion_comunitaria",
+    "ubicacion": "Dos Brazos de Río Tigre",
+    "descripcion_es": "Asociación comunitaria de Dos Brazos de Río Tigre que gestiona las visitas al sector El Tigre del Parque Nacional Corcovado y ofrece tours, hospedaje rural y comida local.",
+    "descripcion_en": "Community association in Dos Brazos de Río Tigre that manages visits to the El Tigre sector of Corcovado National Park and offers local tours, rural lodging and home-style meals.",
+    "descripcion_larga_es": "ACODOBRARTI reúne a vecinos de Dos Brazos de Río Tigre, un pueblo de tradición orera situado donde se unen los dos brazos del río Tigre, a unos 12 km de Puerto Jiménez. La asociación coordina las reservas para el sendero El Tigre, un recorrido de montaña de unos 7 km que entra al Parque Nacional Corcovado, siempre con guía certificado. También organiza cabalgatas, experiencias culturales y demostraciones de extracción artesanal de oro, además de hospedaje en cabinas, albergues y zonas de acampar, y alimentación tradicional.",
+    "descripcion_larga_en": "ACODOBRARTI brings together residents of Dos Brazos de Río Tigre, a former gold-mining village where the two branches of the Tigre River meet, about 12 km from Puerto Jiménez. The association handles reservations for the El Tigre trail, a roughly 7 km mountain route into Corcovado National Park that is always hiked with a certified guide. It also arranges horseback rides, cultural experiences and artisanal gold-panning demonstrations, along with stays in cabins, hostels and campsites and traditional Costa Rican meals.",
+    "telefono": "+506 8691 4545",
+    "whatsapp": "+506 8691 4545",
+    "email": "corcovadoeltigre@gmail.com",
+    "enlaces": {
+      "web": "https://www.corcovadoeltigre.com/",
+      "facebook": "https://www.facebook.com/CorcovadoelTigre/",
+      "instagram": "https://www.instagram.com/corcovadoeltigre/",
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": null
+    },
+    "fuentes": [
+      "https://www.corcovadoeltigre.com/",
+      "https://www.sinac.go.cr/ES/ac/acosa/pnc/Paginas/SectorTigre.aspx",
+      "https://www.twoweeksincostarica.com/corcovado-el-tigre-entrance/"
+    ],
+    "confianza": "alta",
+    "notas": "El sitio oficial no explica la sigla; según resultados de búsqueda (SINAC y otros) corresponde a 'Asociación Conservacionista Dos Brazos de Río Tigre'. Conviene confirmar con la cámara el nombre legal exacto. Los datos del sendero (aprox. 7 km, 12 km desde Puerto Jiménez) provienen de resúmenes de búsqueda de la página de SINAC y de un blog de viajes, no del sitio de la asociación. El mismo número figura como teléfono y WhatsApp."
+  },
+  {
+    "nombre": "Osa Experience",
+    "nombre_excel": "Osa Experience",
+    "categoria": "tours",
+    "ubicacion": "Playa Carate y Puerto Jiménez",
+    "descripcion_es": "Operadora local fundada en 2016 que organiza caminatas guiadas al Parque Nacional Corcovado (La Leona y Sirena), experiencias de naturaleza y bienestar, y viajes a la medida desde Carate y Puerto Jiménez.",
+    "descripcion_en": "Local operator founded in 2016 offering guided hikes into Corcovado National Park (La Leona and Sirena), nature and wellness experiences, and tailor-made trips from Carate and Puerto Jiménez.",
+    "descripcion_larga_es": "Osa Experience es una empresa costarricense creada en 2016 que trabaja entre Playa Carate y Puerto Jiménez. Su especialidad son las visitas guiadas al Parque Nacional Corcovado: caminatas de un día a la estación La Leona desde Carate, tours en bote a Sirena desde el muelle de Puerto Jiménez y travesías de dos o tres días con pernoctación en la estación Sirena. Gestiona las entradas al parque y los guías certificados, y además arma paquetes de naturaleza, bienestar y viajes a la medida con hospedaje en ecolodge.",
+    "descripcion_larga_en": "Osa Experience is a Costa Rican company, founded in 2016, that works between Playa Carate and Puerto Jiménez. Its focus is guided travel in Corcovado National Park: day hikes to La Leona station from Carate, boat trips to Sirena from the Puerto Jiménez dock, and two- or three-day treks with overnight stays at Sirena station. The team arranges park permits and certified guides, and also puts together nature, wellness and tailor-made packages that include ecolodge stays.",
+    "telefono": "+506 8965 7500",
+    "whatsapp": "+506 8965 7500",
+    "email": null,
+    "enlaces": {
+      "web": "https://osaexperience.com/",
+      "facebook": "https://www.facebook.com/osaexperience",
+      "instagram": "https://www.instagram.com/osaexperience/",
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": null
+    },
+    "fuentes": [
+      "https://osaexperience.com/",
+      "https://osaexperience.com/corcovado-tours/"
+    ],
+    "confianza": "media",
+    "notas": "IMPORTANTE: el propio sitio oficial publica como email 'info@joselynr5.sg-host.com', que es un dominio temporal de hosting (SiteGround), casi seguro un residuo de la migración del sitio. No se encontró un email con dominio propio, por eso 'email' queda en null: confirmar con la cámara o con la empresa el correo real antes de publicarlo. El sitio indica que los tours desde Carate se reúnen en Finca Exótica Ecolodge; la relación exacta entre ambas empresas (propiedad o alianza) no está explícita y conviene confirmarla. El mismo número figura como teléfono y WhatsApp. Las páginas /contact/ y /contact-us/ devuelven 404."
+  },
+  {
+    "nombre": "Lapa Ríos Lodge",
+    "nombre_excel": "Lapa Rios Lodge",
+    "categoria": "hospedaje",
+    "ubicacion": "Cabo Matapalo",
+    "descripcion_es": "Ecolodge en Cabo Matapalo con bungalows, suites y villas dentro de una reserva privada de unas 400 hectáreas de bosque lluvioso. Estadías con reserva previa.",
+    "descripcion_en": "Eco-lodge at Cabo Matapalo with bungalows, suites and villas set within a private rainforest reserve of about 1,000 acres. Stays are by advance reservation.",
+    "descripcion_larga_es": "Lapa Ríos es un ecolodge ubicado en Cabo Matapalo, en el extremo sur de la Península de Osa, dentro de una reserva privada de unas 400 hectáreas de bosque tropical lluvioso de bajura. Sus huéspedes se alojan en bungalows, suites y villas abiertos a la selva y al mar, con restaurante propio y un programa de actividades guiadas: caminatas, observación de aves, ballenas y delfines, kayak, surf y visitas a Corcovado. La reserva y sus senderos son de uso exclusivo de los huéspedes.",
+    "descripcion_larga_en": "Lapa Ríos is an eco-lodge at Cabo Matapalo, near the southern tip of the Osa Peninsula, set within a private reserve of roughly 1,000 acres of lowland tropical rainforest. Guests stay in bungalows, suites and villas open to the forest and the sea, with an on-site restaurant and a programme of guided activities: hikes, birding, whale and dolphin watching, kayaking, surfing and trips to Corcovado. The reserve and its trails are for lodge guests only, so a visit means booking a stay.",
+    "telefono": "+506 4070 0420",
+    "whatsapp": "+506 8455 0705",
+    "email": null,
+    "enlaces": {
+      "web": "https://www.laparios.com/",
+      "facebook": "https://www.facebook.com/LapaRiosEcolodge",
+      "instagram": "https://www.instagram.com/laparioscr",
+      "tiktok": null,
+      "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g2705972-d293118-Reviews-Lapa_Rios_Lodge-Cabo_Matapalo_Osa_Peninsula_Province_of_Puntarenas.html",
+      "booking": null
+    },
+    "fuentes": [
+      "https://www.laparios.com/",
+      "https://www.laparios.com/contact"
+    ],
+    "confianza": "alta",
+    "notas": "El sitio oficial muestra un email, pero está ofuscado por la protección de Cloudflare y no se pudo leer de forma automatizada: copiarlo manualmente desde https://www.laparios.com/contact/ o pedirlo a la cámara. El sitio no indica el número total de unidades (fuentes de terceros mencionan 17 bungalows; no se incluyó). La reserva es de uso exclusivo de huéspedes: la descripción no invita a visitas de día. El sitio destaca reconocimientos (Forbes 2025, Michelin 2025, Travel+Leisure 2019) que no se incluyeron para evitar tono publicitario."
+  },
+  {
+    "nombre": "Aventuras Tropicales Golfo Dulce",
+    "nombre_excel": "Aventuras Tropicales Golfo Dulce",
+    "categoria": "tours",
+    "ubicacion": "Puerto Jiménez",
+    "descripcion_es": "Tours en kayak por los manglares y el Golfo Dulce, salidas de bioluminiscencia al atardecer, avistamiento de delfines y ballenas, y alquiler de kayaks en Puerto Jiménez.",
+    "descripcion_en": "Kayak tours through the mangroves and the Golfo Dulce, sunset bioluminescence paddles, dolphin and whale watching trips, and kayak rentals in Puerto Jiménez.",
+    "descripcion_larga_es": "Aventuras Tropicales Golfo Dulce es una operadora de Puerto Jiménez especializada en kayak. Con guías locales, recorre los manglares y las aguas tranquilas del Golfo Dulce, y ofrece salidas al atardecer para observar la bioluminiscencia, tours en bote para ver delfines y ballenas, expediciones de tres días en kayak con campamento y excursiones de un día a Corcovado. No se necesita experiencia previa para remar. En su base, a unos 800 metros al sureste del aeródromo, también alquila kayaks individuales y dobles y cuenta con una cafetería.",
+    "descripcion_larga_en": "Aventuras Tropicales Golfo Dulce is a Puerto Jiménez outfitter specialising in kayaking. Its local guides lead paddles through the mangroves and calm waters of the Golfo Dulce, sunset outings to see bioluminescence, boat trips to look for dolphins and whales, three-day kayak camping expeditions and day trips to Corcovado. No previous paddling experience is needed. At its base, about 800 metres southeast of the airstrip, the company also rents single and double kayaks and runs a small café.",
+    "telefono": "+506 2735 5195",
+    "whatsapp": "+506 8531 6922",
+    "email": "kayak@aventurasgolfodulce.com",
+    "enlaces": {
+      "web": "https://aventurastropicales.com/es",
+      "facebook": null,
+      "instagram": null,
+      "tiktok": null,
+      "tripadvisor": "https://www.tripadvisor.es/Attraction_Review-g309284-d1368314-Reviews-Aventuras_Tropicales_Golfo_Dulce-Puerto_Jimenez_Osa_Peninsula_Province_of_Puntare.html",
+      "booking": null
+    },
+    "fuentes": [
+      "https://aventurastropicales.com/es"
+    ],
+    "confianza": "alta",
+    "notas": "El sitio usa también la marca 'Aventuras Golfo Dulce' y el email pertenece al dominio aventurasgolfodulce.com, distinto del dominio del sitio (aventurastropicales.com); confirmar con la cámara cuál nombre comercial prefieren mostrar. El sitio no indica el año de fundación. No se encontraron enlaces de Facebook/Instagram en la lista; Tripadvisor no se consultó (bloquea acceso automatizado)."
+  },
+  {
+    "nombre": "Hacienda Río Oro",
+    "nombre_excel": "Hacienda Rio Oro",
+    "categoria": "hospedaje",
+    "ubicacion": "Agua Buena de Puerto Jiménez (camino a Carate)",
+    "descripcion_es": "Hospedaje rural familiar en una hacienda fundada en 1982, sobre la ruta entre Puerto Jiménez y Carate, con habitaciones rústicas y tours de naturaleza por montaña, lagunas, manglar y playa.",
+    "descripcion_en": "Family-run rural lodge on a ranch established in 1982, along the road from Puerto Jiménez to Carate, with rustic rooms and nature tours across hills, lagoons, mangroves and beach.",
+    "descripcion_larga_es": "Hacienda Río Oro nació en 1982 como finca ganadera y hoy una nueva generación de la familia la orienta hacia la conservación y el turismo rural. Ubicada en Agua Buena, sobre la Ruta Nacional 245 y unos kilómetros antes de Carate, ofrece un hospedaje pequeño, rústico y cómodo, con trato familiar. Desde la propiedad se organizan recorridos de naturaleza y aventura, incluidas cabalgatas, que pasan por miradores de montaña, lagunas y manglares hasta llegar a una playa de acceso privado, en las cercanías del Parque Nacional Corcovado.",
+    "descripcion_larga_en": "Hacienda Río Oro began in 1982 as a cattle ranch, and a new generation of the family now steers it toward conservation and rural tourism. Located in Agua Buena on National Route 245, a few kilometres before Carate, it offers small-scale, rustic yet comfortable lodging with a family welcome. From the property, nature and adventure outings, including horseback rides, take in hilltop viewpoints, lagoons and mangroves on the way to a beach with private access, close to Corcovado National Park.",
+    "telefono": "+506 8361 6295",
+    "whatsapp": "+506 8361 6295",
+    "email": "haciendariooro@gmail.com",
+    "enlaces": {
+      "web": "https://haciendariooro.com/",
+      "facebook": "https://www.facebook.com/HaciendaRioOro/",
+      "instagram": "https://www.instagram.com/haciendariooro/",
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": "https://www.booking.com/hotel/cr/hacienda-rio-oro.es.html"
+    },
+    "fuentes": [
+      "https://haciendariooro.com/",
+      "https://www.booking.com/hotel/cr/hacienda-rio-oro.es.html"
+    ],
+    "confianza": "alta",
+    "notas": "Se descubrió un sitio web oficial (https://haciendariooro.com/) y un Instagram (enlazado desde ese sitio) que no estaban en la lista de la cámara; ambos se agregaron a 'enlaces'. Contactos tomados del sitio oficial; el mismo número figura como teléfono y WhatsApp. Booking no devolvió contenido al acceso automatizado. Los detalles sobre cabalgatas, el relevo generacional y el enfoque de conservación provienen de descripciones del alojamiento en plataformas de reserva (resúmenes de búsqueda); plataformas de terceros mencionan 6 habitaciones y kayak en la laguna Pejeperro, datos que no se incluyeron por no estar en el sitio oficial."
+  },
+  {
+    "nombre": "Hotel Delfines del Golfo",
+    "nombre_excel": "Hotel Delfines del Golfo",
+    "categoria": "hospedaje",
+    "ubicacion": "Puerto Jiménez",
+    "descripcion_es": "Hotel de ambiente familiar en Puerto Jiménez con cabinas y habitaciones con aire acondicionado, piscina, jardines, rancho con parrillas y parqueo privado.",
+    "descripcion_en": "Family-friendly hotel in Puerto Jiménez with air-conditioned cabins and rooms, a swimming pool, gardens, a covered dining and barbecue area, and private parking.",
+    "descripcion_larga_es": "Delfines del Golfo es un hotel de la zona de Puerto Jiménez pensado para familias y grupos. Dispone de cabinas independientes, cabinas familiares más amplias y una casa equipada para grupos grandes, todas con aire acondicionado, agua caliente, televisión y wifi. Las áreas comunes incluyen piscina, jardines, parqueo privado y un rancho con comedor y parrillas para compartir. El hotel también ofrece desayunos y puede ayudar a coordinar tours por el Golfo Dulce y la Península de Osa.",
+    "descripcion_larga_en": "Delfines del Golfo is a hotel in the Puerto Jiménez area geared to families and groups. It has stand-alone cabins, larger family cabins and a fully equipped house for bigger parties, all with air conditioning, hot water, TV and Wi-Fi. Shared spaces include a swimming pool, gardens, private parking and a covered dining area with barbecue grills. The hotel also serves breakfast and can help arrange tours around the Golfo Dulce and the Osa Peninsula.",
+    "telefono": null,
+    "whatsapp": null,
+    "email": null,
+    "enlaces": {
+      "web": null,
+      "facebook": "https://www.facebook.com/delfinesdelgolfocostarica/",
+      "instagram": null,
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": "https://www.booking.com/hotel/cr/delfines.es.html"
+    },
+    "fuentes": [
+      "https://www.vamosaturistear.com/hoteles/hotel-delfines-del-golfo/",
+      "https://www.booking.com/hotel/cr/delfines.es.html",
+      "https://www.hotels.com/es/ho3643289760/delfines-del-golfo/"
+    ],
+    "confianza": "media",
+    "notas": "No hay fuente oficial accesible: Facebook y Booking bloquearon el acceso automatizado, y el sitio que aparece en directorios (https://www.delfinesdelgolfo.com) no resuelve (dominio caído). La descripción se basa en el directorio Vamos a Turistear (programa del ICT) y en resúmenes de búsqueda de Hotels.com (que menciona 12 habitaciones con aire acondicionado, piscina y desayuno). DUDA DE UBICACIÓN: un resultado de búsqueda lo sitúa en 'La Palma de Puerto Jiménez' mientras que Facebook y el directorio dicen 'Puerto Jiménez'; confirmar con la cámara el sector exacto. Teléfonos hallados solo en el directorio de terceros (no oficial, por eso no se incluyeron en los campos): (506) 2735-1681 y WhatsApp 8400-6925; confirmar antes de publicar. El enlace de Booking de la lista venía con http y sin www; se normalizó a https."
+  },
+  {
+    "nombre": "Botánika Osa Peninsula, Curio Collection by Hilton",
+    "nombre_excel": "Botanika Hilton (Botánika Osa Peninsula, Curio Collection by Hilton)",
+    "categoria": "hospedaje",
+    "ubicacion": "Puerto Jiménez",
+    "descripcion_es": "Resort junto al aeródromo de Puerto Jiménez y la marina Crocodile Bay, con suites de una a tres habitaciones, piscina tipo laguna, spa, club de playa y excursiones de naturaleza y pesca deportiva.",
+    "descripcion_en": "Resort beside the Puerto Jiménez airstrip and Crocodile Bay Marina, with one- to three-bedroom suites, a lagoon-style pool, spa, beach club, and nature and sport-fishing excursions.",
+    "descripcion_larga_es": "Botánika Osa Peninsula forma parte de Curio Collection by Hilton y se ubica al costado sureste del aeródromo de Puerto Jiménez, junto a la marina Crocodile Bay, nacida de un lodge familiar de pesca. Ofrece suites de una, dos y tres habitaciones, suites de jardín y villas, además de piscina tipo laguna con cabañas, spa, gimnasio, restaurantes, bares y un club de playa. Desde el resort se coordinan excursiones de tierra y mar: pesca deportiva en el Golfo Dulce, canopy, observación de aves y visitas al Parque Nacional Corcovado.",
+    "descripcion_larga_en": "Part of Curio Collection by Hilton, Botánika Osa Peninsula sits on the southeast side of the Puerto Jiménez airstrip, next to Crocodile Bay Marina, a development that grew out of a family-run fishing lodge. It offers one-, two- and three-bedroom suites, garden suites and villas, plus a lagoon-style pool with cabanas, a spa, gym, restaurants, bars and a beach club. The resort arranges land and sea excursions, including sport fishing on the Golfo Dulce, zip-lining, birdwatching and visits to Corcovado National Park.",
+    "telefono": "+506 2735 5400",
+    "whatsapp": null,
+    "email": null,
+    "enlaces": {
+      "web": "https://es.botanikaresort.com/",
+      "facebook": "https://www.facebook.com/botanikaosapeninsula/",
+      "instagram": "https://www.instagram.com/botanika_resort/",
+      "tiktok": null,
+      "tripadvisor": null,
+      "booking": null
+    },
+    "fuentes": [
+      "https://es.botanikaresort.com/"
+    ],
+    "confianza": "alta",
+    "notas": "Nombre comercial sugerido: 'Botánika Osa Peninsula, Curio Collection by Hilton' (en el Excel figura como 'Botanika Hilton'). El sitio no publica email ni WhatsApp (solo formulario de contacto); también muestra un número gratuito de EE. UU. (+1 833 812 0674). El sitio promociona además residencias en venta (Rainforest Residences), que no se mencionaron por no ser relevantes para la tarjeta turística."
+  },
+  {
+    "nombre": "Luna Lodge",
+    "nombre_excel": "Luna Lodge",
+    "categoria": "hospedaje",
+    "ubicacion": "Carate",
+    "descripcion_es": "Ecolodge en las montañas de Carate, a las puertas del Parque Nacional Corcovado, con bungalows, habitaciones y tiendas, plataforma de yoga con vista al Pacífico, spa y retiros de bienestar.",
+    "descripcion_en": "Eco-lodge in the hills above Carate, on the doorstep of Corcovado National Park, with bungalows, rooms and tents, a yoga platform overlooking the Pacific, a spa and wellness retreats.",
+    "descripcion_larga_es": "Luna Lodge se encuentra en las montañas boscosas sobre Carate, uno de los rincones más remotos de la Península de Osa y vecino del Parque Nacional Corcovado. Aloja a sus huéspedes en bungalows, habitaciones tipo hacienda y tiendas de campaña con vista a la selva, y funciona con energía hidroeléctrica y solar. Es conocido por sus retiros de yoga y bienestar, con una plataforma de yoga que mira al océano Pacífico, spa, restaurante y huerta orgánica. Desde el lodge se organizan caminatas por el bosque y visitas guiadas a Corcovado.",
+    "descripcion_larga_en": "Luna Lodge lies in the forested hills above Carate, one of the most remote corners of the Osa Peninsula and a neighbour of Corcovado National Park. Guests stay in bungalows, hacienda-style rooms and tents with rainforest views, and the lodge runs on hydroelectric and solar power. It is known for yoga and wellness retreats, with a yoga platform facing the Pacific Ocean, a spa, a restaurant and an organic garden. Rainforest hikes and guided visits to Corcovado are arranged from the lodge.",
+    "telefono": null,
+    "whatsapp": null,
+    "email": null,
+    "enlaces": {
+      "web": "https://lunalodge.com/",
+      "facebook": "https://www.facebook.com/lunalodge.costarica",
+      "instagram": "https://www.instagram.com/lunalodgecostarica/",
+      "tiktok": null,
+      "tripadvisor": "https://www.tripadvisor.es/Hotel_Review-g309280-d301435-Reviews-Luna_Lodge-Carate_Corcovado_National_Park_Osa_Peninsula_Province_of_Puntarenas.html",
+      "booking": null
+    },
+    "fuentes": [
+      "https://lunalodge.com/",
+      "https://lunalodge.com/rainforest-accommodations/",
+      "https://costarica.org/hotels/osa-peninsula/luna-lodge/"
+    ],
+    "confianza": "media",
+    "notas": "El sitio oficial lunalodge.com devolvió HTTP 401 al acceso automatizado (el sitio funciona en navegador, pero bloquea bots), por lo que la descripción se basa en un directorio de terceros (costarica.org) y en los títulos de las páginas oficiales que aparecen en buscadores (bungalows y tiendas; retiros de yoga y bienestar). Según ese directorio: 8 bungalows, 3 habitaciones hacienda, 5 tiendas, certificación CST y restaurante/spa propios; cifras no incluidas en el texto por no estar verificadas en fuente oficial. Contactos hallados solo en terceros (por eso quedan en null): teléfono +506 4070 0010 y email reservations@lunalodge.com; confirmar en el sitio oficial o con la cámara antes de publicar."
+  }
+]
